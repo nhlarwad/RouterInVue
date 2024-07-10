@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "BMW",
+    "price": "$100000",
+    "year": 2012,
+    "img": "https://www.abdullahibnshahin.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ff9anspt6%2Fproduction%2F7c6c44202e1e9f4a4ce193fea6049bfe6ad2d028-1536x1536.jpg&w=2048&q=75",
+    "text": "lorem It is with mixed emotions that I announce the end of Apointal as a public platform. Over the past 2 years, Apointal has grown and evolved, thanks to the unwavering support and valuable feedback from all of you. As we transition to a new chapter, I want to express my deepest gratitude and provide some important updates regarding the changes.",
+    "contact": {
+      "dealer": "jhorse",
+      "number": "333-444-000"
+    }
+  },
+  {
+    "id": 2,
+    "name": "AMG",
+    "price": "$400000",
+    "year": 2013,
+    "contact": {
+      "dealer": "yahoo bhai",
+      "number": "666-444-000"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Toyota",
+    "price": "$500000",
+    "year": 2014,
+    "contact": {
+      "dealer": "ritian",
+      "number": "000-444-000"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ferrari",
+    "price": "$90000",
+    "year": 2009,
+    "contact": {
+      "dealer": "bothorse",
+      "number": "444-444-000"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Mustang",
+    "price": "$60",
+    "year": 2024,
+    "contact": {
+      "dealer": "siam mkhan",
+      "number": "999-444-000"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Honda",
+    "price": "$2200000",
+    "year": 2022,
+    "contact": {
+      "dealer": "elma",
+      "number": "111-444-000"
+    }
+  }
+]
